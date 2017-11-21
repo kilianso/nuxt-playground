@@ -21,6 +21,8 @@ module.exports = {
   /*
   ** Build configuration
   */
+  /* Router, get rid of history mode to prevent go back in Quiz.
+  */
   build: {
     /*
     ** Run ESLint on save
